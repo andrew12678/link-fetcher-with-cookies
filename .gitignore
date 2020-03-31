@@ -1,2 +1,5 @@
 selenium
 cookies.txt
+.env
+*txt
+.idea
